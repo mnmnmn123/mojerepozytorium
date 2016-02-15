@@ -1,1 +1,2 @@
 to jest przykadowy plik.
+dodam jeszvze jedn¹ liniê
