@@ -1,2 +1,4 @@
 to jest przykadowy plik.
-dodam jeszvze jedn¹ liniê
+dodam jeszvze jednÅ¡ liniÄ™
+
+teraz dodaje jeszcze jedna linie i ponieram to do lokalnego
